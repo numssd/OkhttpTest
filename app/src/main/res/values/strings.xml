@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OkhttpTest</string>
+    <string name="name_hero_text">Имя Героя</string>
+    <string name="image_hero_text">image hero</string>
+    <string name="primary_attr_text">Основной атрибут</string>
+    <string name="agi_text">Ловкость</string>
+    <string name="str_text">Сила</string>
+    <string name="int_text">Интеллект</string>
+    <string name="speed_text">Скорость передвижения</string>
+    <string name="health_text">Базовое здоровье</string>
+    <string name="mana_text">Базовая мана</string>
+    <string name="base_attack_text">Базовая атака</string>
+    <string name="icon_hero_text">icon hero</string>
+    <string name="error_text">error</string>
+    <string name="strength_text">Сила</string>
+    <string name="agility_text">Ловкость</string>
+    <string name="intelligence_text">Интеллект</string>
+    <string name="str_reduction">str</string>
+    <string name="agi_reduction">agi</string>
+    <string name="int_reduction">int</string>
+    <string name="range_text">Радиус атаки</string>
+</resources>
